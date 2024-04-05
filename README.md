@@ -4,6 +4,7 @@ Bu proje Invent Analytics tarafından verilen bir Case Question için geliştiri
 
 💫Proje için hazırladığım dökümantasyon `docs` klasörü altında yer almaktadır. Döküman içerisinde, Postman'de API'leri test ederken aldığım video ve ekran görüntüleri de bulunmaktadır.
 
+[Video Linki](https://drive.google.com/file/d/1-iE4CrV51w5w3VLp-SpDgBS9a172Ivh_/view)
 
 ## Kurulum
 
