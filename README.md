@@ -56,6 +56,6 @@ npm start
 
 📍 *Projenin kurulumu tamamlandıktan sonra API'leri test etmek için Postman'i kullanabilirsiniz.*
 
-
+[![Postman Video](https://drive.google.com/file/d/1rZcIV4JqaWJEKCm-shi0dZGXDGrDLlne/view?usp=sharing)](https://drive.google.com/file/d/1-iE4CrV51w5w3VLp-SpDgBS9a172Ivh_/view?usp=sharing)
 
 
