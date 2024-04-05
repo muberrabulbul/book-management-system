@@ -1,5 +1,8 @@
 # Back-end Developer Case Question
-Bu proje Invent Analytics tarafından verilen bir Case Question için geliştirilmiştir.  **💫Proje için hazırladığım dökümantasyon `docs` klasörü altında yer almaktadır. Döküman içerisinde, Postman'de API'leri test ederken aldığım video ve ekran görüntüleri de bulunmaktadır.**
+
+Bu proje Invent Analytics tarafından verilen bir Case Question için geliştirilmiştir.  
+
+**💫Proje için hazırladığım dökümantasyon `docs` klasörü altında yer almaktadır. Döküman içerisinde, Postman'de API'leri test ederken aldığım video ve ekran görüntüleri de bulunmaktadır.**
 
 
 ## Kurulum
